@@ -1,5 +1,4 @@
 # fivem-small-ymaps
-A few YMAP edits/fixes for FiveM
 
 These are small ymaps that fixes things in the map or adds to it, simply stream out the ymap from your resources folder as required. 
 You can group them in one folder or seperate them, just remember to use a fxmanifest.lua file for them.
