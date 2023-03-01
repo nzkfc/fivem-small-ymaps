@@ -3,6 +3,14 @@
 These are small ymaps that fixes things in the map or adds to it, simply stream out the ymap from your resources folder as required. 
 You can group them in one folder or seperate them, just remember to use a fxmanifest.lua file for them.
 
+**pdm_construction.ymap** - Adds a construction scene wrapped around the default PDM location (compatible with https://github.com/Bob74/bob74_ipl as well) Handy if you use another PDM and want to stop people going into that location or similar.
+
+![image](https://user-images.githubusercontent.com/5011997/222130340-4544957e-e414-48b3-a9d1-7bf51e2b144f.png)
+
+https://i.imgur.com/N9h0OaQ.jpeg
+https://i.imgur.com/am9wnWa.jpeg
+https://i.imgur.com/ZkZECZb.jpeg
+
 ----------------------------------------------------------------------------------------
 **fbiroofatirum.ymap** - Adds all glass panels to the top of the FIB building and adds a helipad to the top. (FYI bob74_ipl already has the glass fix if you don't want the helicopter pad)
 
