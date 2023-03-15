@@ -51,7 +51,7 @@ https://i.imgur.com/9xUtjYA.png
 
 
 ----------------------------------------------------------------------------------------
-**ex_int_warehouse_small_dlc.ytyp** - Adds some toxic waste/weapons type props to the small warehouse shell thats hidden under the map. Coords are Warehouse Small: 1094.988, -3101.776, -39 but you may need fivemIPL installed, not 100% sure if bobs has this but im sure it's in there.
+**ex_int_warehouse_small_dlc.ytyp** - Adds some toxic waste/weapons type props to the small warehouse shell thats hidden under the map. Coords are Warehouse Small: 1094.988, -3101.776, -39 but you will need https://github.com/Bob74/bob74_ipl installed.
 
 ![image](https://user-images.githubusercontent.com/5011997/155504518-52f3281d-b2f6-4228-8bb9-307e5dc3912c.png)
 
