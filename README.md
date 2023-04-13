@@ -4,6 +4,23 @@ These are small ymaps that fixes things in the map or adds to it, simply stream 
 You can group them in one folder or seperate them, just remember to use a fxmanifest.lua file for them.
 
 ----------------------------------------------------------------------------------------
+**alta_construction.ymap** - Adds a construction scene wrapped around the alta street carpark, blocking the entrances on the northern side, eastern side and the southern lower carpark near the hotel.
+
+https://i.imgur.com/6LhnzRR.jpeg
+
+https://i.imgur.com/Ek94NFe.jpeg
+
+https://i.imgur.com/NgYTnqw.jpeg
+
+https://i.imgur.com/zb717sN.jpeg
+
+https://i.imgur.com/81FWEg2.jpeg
+
+https://i.imgur.com/2GynNfz.jpeg
+
+https://i.imgur.com/cjtteYo.jpeg
+
+----------------------------------------------------------------------------------------
 **pdm_construction.ymap** - Adds a construction scene wrapped around the default PDM location (compatible with https://github.com/Bob74/bob74_ipl as well) Handy if you use another PDM and want to stop people going into that location or similar.
 
 ![image](https://user-images.githubusercontent.com/5011997/222130340-4544957e-e414-48b3-a9d1-7bf51e2b144f.png)
