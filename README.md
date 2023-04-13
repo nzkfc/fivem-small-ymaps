@@ -6,7 +6,7 @@ You can group them in one folder or seperate them, just remember to use a fxmani
 ----------------------------------------------------------------------------------------
 **alta_construction.ymap** - Adds a construction scene wrapped around the alta street carpark, blocking the entrances on the northern side, eastern side and the southern lower carpark near the hotel.
 
-https://i.imgur.com/6LhnzRR.jpeg
+![image](https://user-images.githubusercontent.com/5011997/231751664-79b45946-fcd5-48f0-b1b5-b39952249b50.png)
 
 https://i.imgur.com/Ek94NFe.jpeg
 
